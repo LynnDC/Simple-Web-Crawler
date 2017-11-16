@@ -1,2 +1,2 @@
-Learning objectives:
+Learning objectives:<br/>
 python packages: "requests", "BeautifulSoup"
